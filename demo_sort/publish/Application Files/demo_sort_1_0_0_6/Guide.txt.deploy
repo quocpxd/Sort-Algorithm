@@ -1,0 +1,12 @@
+Điền số phần tử sắp xếp vào mục "số phần tử" (tối đa là 10 phần tử) và nhấn "Tạo".
+Chương trình sẽ tạo ra các Node rỗng phía trên
+Tạo giá trị cho Node:
+	"Ngẫu nhiên": giá trị sẽ được tạo ngẫu nhiên từ 0 - 100
+	"Bằng tay": Sao khi nhấn vào Button "bằng tay" có thể tạo trực tiếp giá trị khi nhấn vào Node
+	"Đọc file": Giá trị của Node sẽ nằm trong file được chọn
+Lựa chọn thuật toán sắp xếp muốn mô phỏng (6 thuật toán)
+Lựa chọn kiểu sắp xếp (tăng dần hoặc giảm dần)
+Nhấn vào button "Sắp xếp"
+Trong quá trình sắp xếp, các bạn có thể điều chỉnh tốc độ code và tốc độ các node di chuyển.
+Các bạn cũng có thể tạm dừng, tiếp tục hoặc dừng hẳn việc sắp xếp bằng các button phía bên phải
+

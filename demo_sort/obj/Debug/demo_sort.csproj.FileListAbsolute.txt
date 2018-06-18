@@ -1,0 +1,29 @@
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\bin\Debug\demo_sort.exe.config
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\bin\Debug\demo_sort.exe
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\bin\Debug\demo_sort.pdb
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.csprojResolveAssemblyReference.cache
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.Form1.resources
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.Properties.Resources.resources
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.csproj.GenerateResource.Cache
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.exe
+E:\New folder\HK6\LTTQ\Final_LT\Devexpress\demo_sort\demo_sort\obj\Debug\demo_sort.pdb
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\Guide.txt
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\icon\sort.ico
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\image\Guide.PNG
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\image\Info.PNG
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\demo_sort.exe.config
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\demo_sort.exe.manifest
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\demo_sort.application
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\demo_sort.exe
+D:\TH_TrucQuan\demo_sort\demo_sort\bin\Debug\demo_sort.pdb
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.Form1.resources
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.Guide.resources
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.Info.resources
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.Properties.Resources.resources
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.Setting.resources
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.csproj.GenerateResource.Cache
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.exe.manifest
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.application
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.exe
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.pdb
+D:\TH_TrucQuan\demo_sort\demo_sort\obj\Debug\demo_sort.csprojResolveAssemblyReference.cache
